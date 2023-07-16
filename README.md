@@ -3,7 +3,7 @@ A  website built with **HTML**, **CSS**, **Bootstrap** and **JS/JQUERY**
 It is a static and one-page website with different sections.
 
 ## LINK
-  **[Bootstrap Design](https://judechuks.github.io/bootstrap-design/)**
+  **[Daily Tuition Bootstrap Design](https://judechuks.github.io/daily-tuition/)**
 
 ## PAGES
 The project covers the following pages:
